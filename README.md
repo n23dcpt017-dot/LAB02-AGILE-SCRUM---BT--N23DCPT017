@@ -22,3 +22,5 @@ Mô tả yêu cầu & thiết kế hệ thống quản lý đặt phòng khách 
 ## Ghi chú
 - Nếu file SQL lỗi do DB đã tồn tại: xóa database `DROP DATABASE hotel_demo;` rồi chạy lại.
 - Diagrams: dùng PlantUML hoặc draw.io để chỉnh / export PNG.
+Update: Linked Jira issue HBS-3
+
